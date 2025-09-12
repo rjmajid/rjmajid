@@ -22,4 +22,6 @@ I help businesses turn raw data into clear insights for smarter decisions.
 ## 📬 Connect with me:
 Let’s connect and explore how I can help with your data project.
 
-[Majid Hussain | LinkedIn](https://www.linkedin.com/in/majid-hussain-0010541b0/)
+- [LinkedIn | Majid Hussain](https://www.linkedin.com/in/majid-hussain-0010541b0/)  
+- 📧 Email: [rjmajid@gmail.com](mailto:rjmajid@gmail.com)  
+- 💬 WhatsApp: [+92 346 4459691](https://wa.me/923464459691) 
