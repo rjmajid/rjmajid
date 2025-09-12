@@ -8,6 +8,9 @@ I help businesses turn raw data into clear insights for smarter decisions.
 
 - ### [Inventory Performance Analysis – Power BI](https://github.com/rjmajid/Inventory-Performance-Dashboard-Stock-Health-Optimization)
   Monitor inventory health, track stock movement, identify slow-moving or dead stock, and support smarter procurement and warehouse decisions.
+  
+- ### [Sales-Performance-Dashboard – Power BI](https://github.com/rjmajid/Sales-Performance-Dashboard/blob/main/_Sales%20Analysis%20Dashboard.pdf)
+  Provides a comprehensive view of sales trends, revenue growth, customer performance, and regional insights. Helps track KPIs, compare actual vs. target sales, identify top products/customers, and analyze variance for data-driven decision-making.
 
 - ### [Comprehensive Anomaly Detection – SQL](https://github.com/rjmajid/Inventory-Performance-Dashboard-Stock-Health-Optimization)
   Developed 20 SQL queries to identify anomalies across financial transactions, operational processes, and customer interactions.
