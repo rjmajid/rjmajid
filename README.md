@@ -1,4 +1,4 @@
-# About-Me
+
 # Hi, I'm Majid! 👋  
 **📊 Data Analyst (6+ yrs📊 Retail Analyst | Power BI • DAX • SQL• D365 • Python | Data Visualization & Modeling | Helping organizations optimize decisions throug**
 
