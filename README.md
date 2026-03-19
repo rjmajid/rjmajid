@@ -1,7 +1,8 @@
 
-# Hi, Majid here!
-
-**📊 Data Analyst (6+ yrs) | Retail Analytics | Power BI • DAX • SQL • D365 • Python | Data Visualization & Modeling | Helping organizations optimize decisions through data-driven insights**
+👋 Hi, I'm Majid
+💼 Data Analyst | Power BI | D365 F&O
+📊 6+ years in data modeling & dashboards
+🚀 Building scalable BI solutions
 
 I help businesses turn raw data into clear insights for smarter decisions.
 
