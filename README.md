@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Majid Hussain  
+## 👋 Hi, I'm Majid  
 
 💼 **Data Analyst | Power BI Developer | D365 F&O Specialist**  
 
